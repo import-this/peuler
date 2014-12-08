@@ -1,4 +1,4 @@
 peuler
 ======
 
-Solutions to Problems of Project Euler in Python (https://projecteuler.net/)
+Solutions to Problems of [Project Euler](https://projecteuler.net/) in Python.
